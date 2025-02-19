@@ -276,3 +276,4 @@
 /Users/edwinfabian/Projects/LeaveManagementSystem/LeaveManagementSystem.Web/obj/Debug/net9.0/LeaveManagementSystem.Web.pdb
 /Users/edwinfabian/Projects/LeaveManagementSystem/LeaveManagementSystem.Web/obj/Debug/net9.0/LeaveManagementSystem.Web.genruntimeconfig.cache
 /Users/edwinfabian/Projects/LeaveManagementSystem/LeaveManagementSystem.Web/obj/Debug/net9.0/ref/LeaveManagementSystem.Web.dll
+/Users/edwinfabian/Projects/LeaveManagementSystem/LeaveManagementSystem.Web/obj/Debug/net9.0/LeaveManagementSystem.Web.sourcelink.json
